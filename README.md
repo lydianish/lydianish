@@ -8,7 +8,7 @@ I recently completed my PhD in **AI and NLP** and am currently seeking a **Resea
 
 - **Machine Learning & NLP:** Neural Machine Translation, Transformers, Large Language Models (LLMs), Sentence Embeddings  
 - **Research & Development:** Knowledge distillation, data augmentation, evaluation of NLP systems, multilingual NLP, large-scale training on multiple GPUs/nodes  
-- **Programming & Tools:** Python, PyTorch, Hugging Face Transformers, Fairseq, SLURM (distributed training on multiple GPUs and nodes), Git, Linux, Docker
+- **Programming & Tools:** Python, PyTorch, Hugging Face Transformers, Fairseq, SLURM (distributed training on multiple GPUs and nodes), Git, Linux, Docker, TypeScript
 
 ---
 
