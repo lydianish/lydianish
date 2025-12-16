@@ -1,6 +1,6 @@
 # Hi, I'm Lydia Nishimwe 👋
 
-I recently completed my PhD in **AI and NLP** and am currently seeking a **Research Scientist or Machine Learning Engineer** position (on-site in Paris or remote). I specialise in robust neural machine translation, sentence embeddings, and NLP for user-generated content.
+I recently completed my PhD in **Natural Language Processing (NLP)** and am currently seeking a **Research Scientist or Machine Learning Engineer** position (on-site in Paris or remote). I specialize in robust neural machine translation, sentence embeddings, and NLP for user-generated content. I am particularly interested in working on **generative AI, NLP for low-resource languages, and multimodality**.
 
 ---
 
