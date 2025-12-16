@@ -23,7 +23,7 @@ Paper published at LREC-COLING 2024 conference; model released on Hugging Face.
 
 ---
 
-## 🔁 Other Forked and Contributed Projects (Used in Research)
+## 🔁 Forked and Contributed Projects (Used in Research)
 
 These are important open‑source toolkits I’ve forked, used and contributed to during my PhD research:
 
