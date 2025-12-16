@@ -23,7 +23,9 @@ Paper published at LREC-COLING 2024 conference; model released on Hugging Face.
 
 ---
 
-## 🔧 Contributions to Open Source
+## 🔁 Other Forked and Contributed Projects (Used in Research)
+
+These are important open‑source toolkits I’ve forked, used and contributed to during my PhD research:
 
 ### **📌 [fairseq](https://github.com/lydianish-phd/fairseq)**
 Forked from Meta’s sequence‑to‑sequence toolkit and used extensively for NMT experiments. **Contributed bug fixes** and enhancements (e.g., dictionary handling improvements).
@@ -31,20 +33,26 @@ Forked from Meta’s sequence‑to‑sequence toolkit and used extensively for N
 ### **📌 [NL‑Augmenter](https://github.com/lydianish-phd/NL-Augmenter)**
 Forked the transformation library, used it to **generate artificial UGC** for data augmentation, and **contributed bug fixes and new features.**
 
----
-
-## 🔁 Other Forked Projects
-
-These are important open‑source toolkits I’ve forked, used and contributed to during my PhD research:
-
 ### **📌 [LASER](https://github.com/lydianish-phd/LASER)**
 Forked from the original LASER (Language‑Agnostic SEntence Representations) for use and extension in my research. **Wrote evaluation scripts** for evaluating on new models (RoLASER) and tasks (Massive Text Embedding Benchmark - MTEB).
-
 
 ### **📌 [SONAR](https://github.com/lydianish-phd/SONAR)**
 Forked the SONAR repository to use its **text embedding and translation capabilities** in my work (text‑only use case, not speech). Used to extend the RoLASER approach to **RoSONAR**.
 
 ---
+
+## 🌐 Prior Collaborative / Hackathon Projects
+
+### **💻 [MT Challenger Frontend Legacy](https://github.com/mt-challenge-generator/mt_challenger_frontend_legacy)**
+Built the **front-end of a data augmentation tool for Machine Translation** during the 3-day online Unbabel MT Half-Marathon 2021.
+
+### **🤝 [Social Relief](https://github.com/alphamanuscript/social-relief)**
+Collaborative project for **transparent distribution of Covid-19 relief funds** in Kenya. Focused on system implementation and workflow improvements.
+
+### **🧬 [BRAG](https://github.com/lydianish/brag)**
+Tool for **biomedical journal ranking**; includes data parsing, processing, and local deployment capabilities.
+ ---
+
 
 ## 📂 PhD Work Organization
 
