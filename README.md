@@ -6,41 +6,43 @@ I recently completed my PhD in **AI and NLP** and am currently seeking a **Resea
 
 ## 🛠️ Skills & Expertise
 
-- **Machine Learning & NLP:** Neural Machine Translation (NMT), Transformers, Sentence Embeddings, Large Language Models (LLMs)
-- **Programming & Tools:** Python, PyTorch, Hugging Face Transformers, SLURM, Git, Linux, Docker  
-- **Research & Development:** Knowledge distillation, data augmentation, representation learning, evaluation of NLP systems
+- **Machine Learning & NLP:** Neural Machine Translation, Transformers, Large Language Models (LLMs), Sentence Embeddings  
+- **Research & Development:** Knowledge distillation, data augmentation, evaluation of NLP systems, multilingual NLP, large-scale training on multiple GPUs/nodes  
+- **Programming & Tools:** Python, PyTorch, Hugging Face Transformers, Fairseq, SLURM (distributed training on multiple GPUs and nodes), Git, Linux, Docker
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
-### **[RoLASER](https://github.com/lydianish-phd/RoLASER)**
-My own project to make **LASER more robust to User-Generated Content (UGC)**.  
-*Focus:* Improved sentence embeddings for noisy text.
+These are among the repositories I’ve highlighted on my GitHub profile — check them out for code, demos, and research results.
 
-### **[LASER](https://github.com/facebookresearch/LASER)**
-Language-Agnostic SEntence Representations.  
-*Used in my research work.*
-
-### **[SONAR](https://github.com/lydianish-phd/SONAR)**
-Multilingual & multimodal **fixed-size sentence embedding space** for speech and text.  
-*Used in my research work.*
-
-### **[Fairseq & Fairseq2](https://github.com/lydianish-phd/fairseq)**
-FAIR Sequence-to-Sequence Toolkit.  
-*Used in my research work.*
-
-### **[NL-Augmenter](https://github.com/lydianish-phd/NL-Augmenter)**
-Collaborative repository of **natural language transformations**.  
-*Focus:* Data augmentation for NLP evaluation and robustness; used in my research to **generate artificial User-Generated Content (UGC)**.
+### **🔹 [RoLASER](https://github.com/lydianish-phd/RoLASER)**
+My PhD research work to make **LASER more robust to User‑Generated Content (UGC)**.  
+Includes robust sentence embeddings and **UGC data generation via augmentation**.
+Paper published at LREC-COLING 2024 conference; model released on Hugging Face.
 
 ---
 
 ## 🔧 Contributions to Open Source
 
-- **Fairseq:** bug fixes and improvements  
-- **NL-Augmenter:** bug fixes and new features  
-- Demonstrates active engagement with leading NLP research and tools  
+### **📌 [fairseq](https://github.com/lydianish-phd/fairseq)**
+Forked from Meta’s sequence‑to‑sequence toolkit and used extensively for NMT experiments. **Contributed bug fixes** and enhancements (e.g., dictionary handling improvements).
+
+### **📌 [NL‑Augmenter](https://github.com/lydianish-phd/NL-Augmenter)**
+Forked the transformation library, used it to **generate artificial UGC** for data augmentation, and **contributed bug fixes and new features.**
+
+---
+
+## 🔁 Other Forked Projects
+
+These are important open‑source toolkits I’ve forked, used and contributed to during my PhD research:
+
+### **📌 [LASER](https://github.com/lydianish-phd/LASER)**
+Forked from the original LASER (Language‑Agnostic SEntence Representations) for use and extension in my research. **Wrote evaluation scripts** for evaluating on new models (RoLASER) and tasks (Massive Text Embedding Benchmark - MTEB).
+
+
+### **📌 [SONAR](https://github.com/lydianish-phd/SONAR)**
+Forked the SONAR repository to use its **text embedding and translation capabilities** in my work (text‑only use case, not speech). Used to extend the RoLASER approach to **RoSONAR**.
 
 ---
 
@@ -48,14 +50,6 @@ Collaborative repository of **natural language transformations**.
 
 All my PhD-related repositories are grouped under my GitHub organization: **[lydianish-phd](https://github.com/lydianish-phd)**.  
 > *Work in progress: still migrating repositories from my lab's private GitLab.*
-
----
-
-## 📈 How to Navigate My Work
-
-- **Pinned repositories** above showcase my main contributions.  
-- **Forked projects** demonstrate engagement and contributions to open-source NLP.  
-- **Experimental branches** contain ongoing research and prototypes (open to collaboration).
 
 ---
 
