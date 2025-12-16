@@ -18,12 +18,12 @@ I recently completed my PhD in **AI and NLP** and am currently seeking a **Resea
 My own project to make **LASER more robust to User-Generated Content (UGC)**.  
 *Focus:* Improved sentence embeddings for noisy text.
 
-### **[SONAR](https://github.com/lydianish-phd/SONAR)**
-Multilingual & multimodal **fixed-size sentence embedding space** for speech and text.  
-*Used in my research work.*
-
 ### **[LASER](https://github.com/facebookresearch/LASER)**
 Language-Agnostic SEntence Representations.  
+*Used in my research work.*
+
+### **[SONAR](https://github.com/lydianish-phd/SONAR)**
+Multilingual & multimodal **fixed-size sentence embedding space** for speech and text.  
 *Used in my research work.*
 
 ### **[Fairseq & Fairseq2](https://github.com/lydianish-phd/fairseq)**
@@ -41,6 +41,13 @@ Collaborative repository of **natural language transformations**.
 - **Fairseq:** bug fixes and improvements  
 - **NL-Augmenter:** bug fixes and new features  
 - Demonstrates active engagement with leading NLP research and tools  
+
+---
+
+## 📂 PhD Work Organization
+
+All my PhD-related repositories are grouped under my GitHub organization: **[lydianish-phd](https://github.com/lydianish-phd)**.  
+> *Work in progress: still migrating repositories from my lab's private GitLab.*
 
 ---
 
