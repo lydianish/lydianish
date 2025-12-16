@@ -50,9 +50,9 @@ Built the **front-end of a data augmentation tool for Machine Translation** duri
 Collaborative project for **transparent distribution of Covid-19 relief funds** in Kenya. Focused on system implementation and workflow improvements.
 
 ### **🧬 [BRAG](https://github.com/lydianish/brag)**
-Tool for **biomedical journal ranking**; includes data parsing, processing, and local deployment capabilities.
- ---
+**BRAG (Biomedical RAkinG)** is a cross-platform tool that aggregates bibliographic data from sources like PubMed and Google Scholar to summarise researchers’ scientific output, including publications, citations, h-index, and optional graphical representations.
 
+---
 
 ## 📂 PhD Work Organization
 
