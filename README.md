@@ -6,7 +6,7 @@ I recently completed my PhD in **AI and NLP** and am currently seeking a **Resea
 
 ## 🛠️ Skills & Expertise
 
-- **Machine Learning & NLP:** Transformers, Fairseq, Sentence Embeddings 
+- **Machine Learning & NLP:** Neural Machine Translation (NMT), Transformers, Sentence Embeddings, Large Language Models (LLMs)
 - **Programming & Tools:** Python, PyTorch, Hugging Face Transformers, SLURM, Git, Linux, Docker  
 - **Research & Development:** Knowledge distillation, data augmentation, representation learning, evaluation of NLP systems
 
