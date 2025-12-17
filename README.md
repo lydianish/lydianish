@@ -28,7 +28,7 @@ Paper published at LREC-COLING 2024 conference; model released on Hugging Face.
 These are important open‑source toolkits I’ve forked, used and contributed to during my PhD research:
 
 ### **📌 [fairseq](https://github.com/lydianish-phd/fairseq)**
-Forked from Meta’s sequence‑to‑sequence toolkit and used extensively for NMT experiments. **Contributed bug fixes** and enhancements (e.g., dictionary handling improvements).
+Forked from Meta’s sequence‑to‑sequence toolkit and used extensively for NMT experiments. **Contributed bug fixes** and enhancements (e.g., dictionary handling improvements). [Read my blog about the bug here](https://lydianishimwe.info/blog/fairseq-overwrite/).
 
 ### **📌 [NL‑Augmenter](https://github.com/lydianish-phd/NL-Augmenter)**
 Forked the transformation library, used it to **generate artificial UGC** for data augmentation, and **contributed bug fixes and new features.**
