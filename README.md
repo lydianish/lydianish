@@ -41,6 +41,13 @@ Forked the SONAR repository to use its **text embedding and translation capabili
 
 ---
 
+## 📂 PhD Work Organization
+
+All my PhD-related repositories are grouped under my GitHub organization: **[lydianish-phd](https://github.com/lydianish-phd)**.  
+> *Work in progress: still migrating repositories from my lab's private GitLab.*
+
+---
+
 ## 🌐 Prior Collaborative / Hackathon Projects
 
 ### **💻 [MT Challenger Frontend Legacy](https://github.com/mt-challenge-generator/mt_challenger_frontend_legacy)**
@@ -51,13 +58,6 @@ Collaborative project for **transparent distribution of Covid-19 relief funds** 
 
 ### **🧬 [BRAG](https://github.com/lydianish/brag)**
 Developed **BRAG (Biomedical RAkinG)**, a cross-platform tool that aggregates bibliographic data from sources like PubMed and Google Scholar to summarise researchers’ scientific output, including publications, citations, h-index, and optional graphical representations. This was a school project at Centrale Nantes.
-
----
-
-## 📂 PhD Work Organization
-
-All my PhD-related repositories are grouped under my GitHub organization: **[lydianish-phd](https://github.com/lydianish-phd)**.  
-> *Work in progress: still migrating repositories from my lab's private GitLab.*
 
 ---
 
