@@ -8,7 +8,7 @@ I recently completed my PhD in **Natural Language Processing (NLP)** and am curr
 
 - **Machine Learning & NLP:** Neural Machine Translation, Transformers, Large Language Models (LLMs), Sentence Embeddings, Lexical Normalization  
 - **Research & Development:** Knowledge distillation, data augmentation, evaluation of NLP systems, multilingual NLP, large-scale distributed training on multiple GPUs/nodes  
-- **Programming & Tools:** Python, PyTorch, Hugging Face Transformers, Fairseq, SLURM, Git, Linux, Docker, TypeScript
+- **Programming & Tools:** Python, PyTorch, Hugging Face Transformers, Fairseq, SLURM, Git, Bash, Docker, TypeScript
 
 ---
 
