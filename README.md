@@ -1,6 +1,6 @@
 # Hi, I'm Lydia Nishimwe 👋
 
-AI Research Scientist working on **robust machine learning and real-world model behaviour**.
+**AI Research Scientist** studying how machine learning models fail in real-world conditions.
 
 I recently completed my PhD at **Inria / Sorbonne Université**, where I studied how large language and translation models behave under **noisy, heterogeneous, and out-of-distribution data**. My work focuses on representation learning, robustness, and the gap between controlled benchmarks and real-world deployment.
 
