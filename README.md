@@ -1,15 +1,24 @@
 # Hi, I'm Lydia Nishimwe 👋
 
-I recently completed my PhD in **Natural Language Processing (NLP)** and am currently seeking a **Research Scientist or Machine Learning Engineer** position (on-site in Paris or remote). I specialize in robust neural machine translation, sentence embeddings, and NLP for user-generated content. I am particularly interested in working on **generative AI, NLP for low-resource languages, and multimodality**.
+AI Research Scientist working on **robust machine learning and real-world model behaviour**.
+
+I recently completed my PhD at **Inria / Sorbonne Université**, where I studied how large language and translation models behave under **noisy, heterogeneous, and out-of-distribution data**. My work focuses on representation learning, robustness, and the gap between controlled benchmarks and real-world deployment.
+
+I’m particularly interested in **foundation models, multilingual and low-resource settings, and data-centric approaches to improving reliability**.
 
 ---
 
-## 🛠️ Skills & Expertise
+## 🛠️ Expertise
 
-- **Machine Learning & NLP:** Neural Machine Translation, Transformers, Large Language Models (LLMs), Sentence Embeddings, Lexical Normalization  
-- **Research & Development:** Knowledge distillation, data augmentation, evaluation of NLP systems, multilingual NLP, large-scale distributed training on multiple GPUs/nodes  
-- **Programming & Tools:** Python, PyTorch, Hugging Face Transformers, Fairseq, SLURM, Git, Bash, Docker, TypeScript
+- **Robust ML & Representation Learning:** embeddings, noisy text, domain shift, heterogeneous data  
+- **LLMs & Generative Models:** evaluation, prompting, behaviour analysis  
+- **Multilingual & Low-Resource NLP:** transfer learning, real-world data challenges  
 
+## ⚙️ Stack
+
+- Python, PyTorch (Transformers, Fairseq)  
+- Scikit-learn, Pandas  
+- SLURM, Linux, Git  
 ---
 
 ## 🚀 Featured Projects
