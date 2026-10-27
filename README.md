@@ -25,10 +25,18 @@ I’m particularly interested in **foundation models, multilingual and low-resou
 
 These are among the repositories I’ve highlighted on my GitHub profile — check them out for code, demos, and research results.
 
-### **🔹 [RoLASER](https://github.com/lydianish-phd/RoLASER)**
-My PhD research work to make **LASER more robust to User‑Generated Content (UGC)**.  
-Includes robust sentence embeddings and **UGC data generation via augmentation**.
-Paper published at LREC-COLING 2024 conference; model released on Hugging Face.
+### 🔹 [ugc-mt-eval-challenges](https://github.com/lydianish-phd/ugc-mt-eval-challenges)  
+This repository contains the full research code and experiments from my PhD work on **translating user-generated content (UGC) with LLMs** under different prompting and evaluation settings, demonstrating the importance of **guideline-aware and controllable evaluation**.
+
+📄 This work was published at EAMT 2026. Read the preprint here: [When the Gold Standard Isn't Necessarily Standard: Challenges of Evaluating the Translation of User-Generated Content (Nishimwe et al., 2026)](https://arxiv.org/abs/2512.17738)
+
+### 🔹 [robust-embeddings](https://github.com/lydianish-phd/robust-embeddings)  
+This repository contains the full research code and experiments from my PhD work on making **sentence embeddings robust to UGC**. It includes the full training pipelines for **RoLASER** and **RoSONAR**, covering synthetic UGC generation, teacher–student training, and evaluation on both natural and artificial non-standard text. Ideal for researchers interested in **UGC robustness, sentence embeddings, and multilingual NLP**.
+
+### 🔹 [RoLASER](https://github.com/lydianish-phd/RoLASER)  
+A **demo-focused version of the RoLASER model** for quick exploration. It provides pre-trained models, example scripts, and visualisations to understand how **token-level and character-level student encoders** align standard and non-standard sentences in the LASER embedding space. Perfect for testing and educational purposes.
+
+📄 This work was published at LREC-COLING 2024. Read the paper here: [Making Sentence Embeddings Robust to User-Generated Content (Nishimwe et al., 2024)](https://aclanthology.org/2024.lrec-main.958/)
 
 ---
 
@@ -52,8 +60,9 @@ Forked the SONAR repository to use its **text embedding and translation capabili
 
 ## 📂 PhD Work Organization
 
-All my PhD-related repositories are grouped under my GitHub organization: **[lydianish-phd](https://github.com/lydianish-phd)**.  
-> *Work in progress: still migrating repositories from my lab's private GitLab.*
+All my PhD-related repositories are grouped under my GitHub organization: **[lydianish-phd](https://github.com/lydianish-phd)**. 
+
+🎓 Read the full thesis here: [Robust Neural Machine Translation of User-Generated Content](https://theses.hal.science/tel-05448644).
 
 ---
 
